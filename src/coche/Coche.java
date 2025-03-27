@@ -7,7 +7,6 @@ package coche;
  * @version 1.0, 21-03-2025
  */
 public class Coche {
-    private int entorno;
     private String nombre;
     private double precio;
     private double precioIVA;
